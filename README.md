@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Curt Whelan
+
+- I'm studying Computer Science at the University of Kentucky (Graduating in December 2022)
+- I like both Game and iOS Development
+- You can email me here: curtawhelan@outlook.com
 
 <!--
 **curtawhelan/curtawhelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
