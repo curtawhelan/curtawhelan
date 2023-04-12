@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Curt Whelan
 
-- I'm studying Computer Science at the University of Kentucky (Graduating in December 2022)
-- I like both Game and iOS Development
+- Recent Computer Science Graduate (University of Kentucky: College of Engineering) and aspiring Software Engineer
+- My focus right now is on Front-End Web Development
+- I'm currently keeping busy by pursuing a Professional Certificate from Meta in Front-End Development
 - You can email me here: curtawhelan@outlook.com
 
 <!--
