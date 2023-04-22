@@ -4,6 +4,7 @@
 - My focus right now is on Front-End Web Development
 - I'm currently keeping busy by pursuing a Professional Certificate from Meta in Front-End Development
 - You can email me here: curtawhelan@outlook.com
+- Some stuff I'm proud of: [TrekTrack, a health app](https://github.com/ukcs485gFall2022/final-project-client-curtawhelan)
 
 <!--
 **curtawhelan/curtawhelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
